@@ -1,5 +1,5 @@
-import { Profile } from './components/Profile/';
-import { user, data, friends, transactions } from '../json/';
+import { Profile } from 'src/components/Profile';
+import { user, data, friends, transactions } from 'src/json';
 import { Container } from 'src/components/App/App.styled.js';
 
 export const App = () => {
