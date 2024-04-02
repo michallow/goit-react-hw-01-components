@@ -4,10 +4,11 @@
     -webkit-box-shadow: 6px 6px 17px 0px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 6px 6px 17px 0px rgba(0, 0, 0, 0.75);
     box-shadow: 6px 6px 17px 0px rgba(0, 0, 0, 0.75);
+    background: white;
   }
   
   .thead {
-    background-color: aquamarine;
+    background-color: rgb(127, 214, 255);
     padding: 5px;
     font-size: 25px;
   }
@@ -22,5 +23,5 @@
   }
   
   .item:nth-child(even) {
-    background-color: #e7ddb9;
+    background-color: #cfcfcf;
   }
